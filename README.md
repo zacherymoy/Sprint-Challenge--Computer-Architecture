@@ -1,3 +1,6 @@
+To run this ls8/ls8
+python ls8.py examples/stack.ls8
+
 # Sprint Challenge: Computer Architecture - Conditional Jumps
 
 This challenge allows you to practice the concepts and techniques learned over
